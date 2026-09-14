@@ -1,0 +1,11 @@
+langchain==1.4.0
+langchain-core==1.6.3
+langchain-community==0.4.2
+langchain-chroma==1.1.0
+langchain-openai==1.6.2
+langchain-text-splitters==1.1.2
+chromadb==1.5.9
+gradio==6.27.0
+python-dotenv==1.2.3
+pymupdf==1.28.2
+docx2txt==0.9
